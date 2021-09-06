@@ -3,8 +3,12 @@ import { useState } from 'react/cjs/react.development';
 import './App.css';
 import fakeData from '../src/Fake Data/fakeData.json'
 import Shop from './Components/Shop/Shop';
+import Cart from './Components/Cart/Cart';
+
+
 function App() {
   const [players, setPlayers] = useState([])
+  const [cart, setCart] = useState([])
   // console.log(players)
 
   useEffect(() => {
@@ -12,14 +16,18 @@ function App() {
 
   }, [])
 
-  const addPlayer =(player) => {
-    console.log( player)
+  const addPlayer = (player) => {
+    const newCart = [...cart, player];
+    setCart(newCart)
+
   }
 
-  return (
-    <div >
 
-      <h1>Create your team</h1>
+
+  return (
+    <div className='app' >
+
+
 
       <div className='main' >
         {
@@ -27,6 +35,9 @@ function App() {
         }
       </div>
 
+      <div  >
+        <Cart cart={cart}>  </Cart>
+      </div>
 
     </div>
   );
