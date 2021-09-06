@@ -18,7 +18,7 @@ const Cart = (props) => {
             <h1>Player added : {cart.length}</h1>
             <h3>Total price : {total} BDT</h3>
             {
-                cart.map((p,idx) => <li key={idx} type='1'> {p.name} -- {p.salary}</li>)
+                cart.map((p,idx) => <li key={idx} type='1'> <small>{p.name} -- {p.salary}</small></li>)
             }
             
         </div>

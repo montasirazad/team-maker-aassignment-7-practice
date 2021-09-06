@@ -15,7 +15,7 @@ const Shop = (props) => {
 
         <div>
             <div className='player-container'>
-                <img style={{ height: "150px" }} src={img} alt="" />
+                <img title={name} style={{ height: "150px" }} src={img} alt="" />
                 <h1> {name}</h1>
                 <p>Age: {age}</p>
                 <p>{role}</p>
