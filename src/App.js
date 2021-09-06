@@ -19,6 +19,7 @@ function App() {
   const addPlayer = (player) => {
     const newCart = [...cart, player];
     setCart(newCart)
+    document.getElementById('test').style.display ='block';
 
   }
 
@@ -35,7 +36,7 @@ function App() {
         }
       </div>
 
-      <div  >
+      <div id='test' >
         <Cart cart={cart}>  </Cart>
       </div>
 
