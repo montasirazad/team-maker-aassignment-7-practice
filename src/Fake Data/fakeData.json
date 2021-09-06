@@ -1,0 +1,143 @@
+[ 
+    {
+        "id": "Bff1",
+        "name": "Jamal Bhuyan",
+        "age": 31,
+        "salary": 300000,
+        "img": "https://www.bff.com.bd/uploads/player/national-man/JAMAL-BHUYAN.jpg",
+        "role": "Captain, Midfielder"
+    } ,
+    {
+        "id": "Bff2",
+        "name": "Anisur Rahman",
+        "age": 24,
+        "salary":  200000,
+        "img": "https://www.bff.com.bd/uploads/player/national-man/ANISUR-RAHMAN.png",
+        "role": "Goalkeeper"
+    }
+    ,
+    {
+        "id": "Bff3",
+        "name": "MD SAHIDUL ALAM",
+        "age": 25 ,
+        "salary": 200000,
+        "img": "https://www.bff.com.bd/uploads/player/national-man/MD-SAHIDUL-ALAM.png",
+        "role": "Goalkeeper"
+    }
+    ,
+    {
+        "id": "Bff4",
+        "name": "MD RAHMAT MIA",
+        "age": 21 ,
+        "salary": 250000,
+        "img": "https://www.bff.com.bd/uploads/player/national-man/MD-RAHMAT-MIA.png",
+        "role": "Defender"
+    }
+    ,
+    {
+        "id": "Bff5",
+        "name": "TOPU BARMAN",
+        "age": 23,
+        "salary": 250000,
+        "img": "https://www.bff.com.bd/uploads/player/national-man/TOPU-BARMAN.png",
+        "role": "Defender"
+    }
+    ,
+    {
+        "id": "Bff6",
+        "name": "RIYADUL HASAN",
+        "age":22 ,
+        "salary": 250000,
+        "img": "https://www.bff.com.bd/uploads/player/national-man/RIYADUL-HASAN.png",
+        "role": "Defender"
+    }
+    ,
+    {
+        "id": "Bff7",
+        "name": "YEASIN ARAFAT",
+        "age": 23 ,
+        "salary": 270000,
+        "img": "https://www.bff.com.bd/uploads/player/national-man/Yeasin-arafat.png",
+        "role": "Defender"
+    }
+    ,
+    {
+        "id": "Bff8",
+        "name": "MD RIMON HOSSAIN",
+        "age": 16,
+        "salary":22000 ,
+        "img": "https://www.bff.com.bd/uploads/player/national-man/rimon-hossain.png",
+        "role": "Defender"
+    }
+    ,
+    {
+        "id": "Bff9",
+        "name": "MD MEHEDI HASAN",
+        "age": 23 ,
+        "salary": 123645 ,
+        "img": "https://www.bff.com.bd/uploads/player/national-man/mehedi-hasan.png",
+        "role": "Defender"
+    }
+    ,
+    {
+        "id": "Bff10",
+        "name": "BISHWANATH GHOSH",
+        "age": 22,
+        "salary":  ,
+        "img": "https://www.bff.com.bd/uploads/player/national-man/BISHWANATH-GHOSH.png",
+        "role": "Midfielder"
+    }
+    ,
+    {
+        "id": "Bff11",
+        "name": "MD ABDULLAH",
+        "age": 23,
+        "salary": 299540 ,
+        "img": "https://www.bff.com.bd/uploads/player/national-man/MD-ABDULLAH.png",
+        "role": "Midfielder"
+    }
+    ,
+    {
+        "id": "Bff12",
+        "name": "MASUK MIAH ZONI",
+        "age": 18 ,
+        "salary": 195000 ,
+        "img": "https://www.bff.com.bd/uploads/player/national-man/MASUK-MIAH-ZONI.png",
+        "role": "Midfielder"
+    }
+    ,
+    {
+        "id": "Bff13",
+        "name": "SOHEL RANA",
+        "age": 26 ,
+        "salary": 225000,
+        "img": "https://www.bff.com.bd/uploads/player/national-man/SOHEL-RANA.png",
+        "role": "Midfielder"
+    }
+    ,
+    {
+        "id": "Bff14",
+        "name": "BIPLU AHAMED",
+        "age": 24 ,
+        "salary": 155000 ,
+        "img": "https://www.bff.com.bd/uploads/player/national-man/BIPLO-AHAMED.png",
+        "role": "Midfielder"
+    }
+    ,
+    {
+        "id": "Bff15",
+        "name": "MD SUMAN REZA",
+        "age": 21 ,
+        "salary": 200000 ,
+        "img": "https://www.bff.com.bd/uploads/player/national-man/sumon-reza.png",
+        "role": "Forwards"
+    },
+    {
+        "id": "Bff16",
+        "name": "MOHAMMAD IBRAHIM",
+        "age": 20 ,
+        "salary": 200000,
+        "img": "https://www.bff.com.bd/uploads/player/national-man/MOHAMMAD-IBRAHIM.png",
+        "role": "Forwards"
+    }
+]
