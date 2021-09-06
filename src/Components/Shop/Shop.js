@@ -4,9 +4,10 @@ import {  faUserPlus } from '@fortawesome/free-solid-svg-icons'
 import '../Shop/Shop.css'
 
 const Shop = (props) => {
-    console.log(props)
+    // console.log(props)
 
     const { age, img, name, role, salary } = props.player
+    const addPlayer = props.addPlayer
 
     return (
         
@@ -16,8 +17,8 @@ const Shop = (props) => {
                 <h1> {name}</h1>
                 <p>Age: {age}</p>
                 <p>{role}</p>
-                <p>{salary}</p>
-                <button ><FontAwesomeIcon icon= {faUserPlus} />  Add this player</button>
+                <p>salary : {salary}</p>
+                <button onClick={()=>addPlayer(props.player)} ><FontAwesomeIcon icon= {faUserPlus} />  Add this player</button>
             </div>
 
          
